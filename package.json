@@ -1,7 +1,7 @@
 {
   "name": "@clever-libs/config",
   "description": "config management library",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "João Alberto <hey@joaoalberto.dev>",
   "license": "MIT",
   "homepage": "https://github.com/clever-libs/config#readme",
